@@ -510,6 +510,9 @@ article {
   max-width: 15rem;
   display: block;
   flex: 1 0 auto;
+  border: 1px solid #fff;
+  border-radius: 40% 20%;
+  box-shadow: 0px 10px 15px #555; 
 }
 @media only screen and (max-width: 1199px) {
   .avatar-wrapper {
